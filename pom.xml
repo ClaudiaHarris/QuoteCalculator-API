@@ -9,8 +9,8 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.claudiavharris</groupId>
-    <artifactId>QuoteApi</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>quote-api</artifactId>
+    <version>1.0-SNAPSHOT</version>
     <name>QuoteApi</name>
     <description>QuoteApi</description>
     <url/>
