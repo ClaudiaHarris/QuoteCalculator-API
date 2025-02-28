@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.logging.Logger;
 
 @SpringBootApplication
-@RestController
+
 public class QuoteApiApplication {
     private static final Logger LOGGER = Logger.getLogger(QuoteApiApplication.class.getName());
     private final JavaMailSender mailSender;
